@@ -1,5 +1,6 @@
 # reddit-search
 
-![License](https://github.com/kippenjongen/reddit-search/wtfpl/logo-220x1601.png)
+![License](https://raw.githubusercontent.com/kippenjongen/reddit-search/master/wtfpl/wtfpl-badge-1.png?raw=true)
+
 Using the WTFPL License
 
